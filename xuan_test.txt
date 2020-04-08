@@ -1,0 +1,5 @@
+
+#!/bin/bash
+just test
+111111
+
